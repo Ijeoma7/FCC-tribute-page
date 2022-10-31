@@ -1,0 +1,47 @@
+body {
+    background-color:rgb(220, 220, 220);
+    }
+    h1, h3 {
+      font-family:sans-serif;
+      text-align:center;
+    }
+    header {
+      background-color: rgb(210, 210, 210);
+      text-align:center;
+      margin:0;
+      padding:0.5em;
+    }
+    #img-div {
+      display:block;
+      background-color:rgb(248, 240, 227);
+      padding-top:2em;
+      
+      }
+    #image {
+      display:block;
+      margin:2em auto 0;
+      width:60%;
+      max-width:100%;
+      height:auto;
+      max-height:20%;
+      background-color: rgb(200, 220, 220);
+    }
+    #img-caption {
+      text-align:center;
+      padding:0 0 0.2em 0;
+    }
+    #tribute-info {
+      display:block;
+      text-align:center;
+      
+    }
+    ul {
+      display:block;
+      width:50%;
+      margin:2em auto;
+    }
+    .quote {
+      
+      
+     
+    }
